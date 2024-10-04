@@ -1,4 +1,9 @@
 ---
+name: Custom
+about: Create a report to help us improve
+title: ''
+labels: ''
+assignees: ''
 body:
   - type: dropdown
     id: browsers
